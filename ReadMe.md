@@ -20,7 +20,7 @@ A simple RESTful API for managing a book directory. This API allows users to cre
 To start the server, run:
 
 ```bash
-npm start
+node index
 ```
 
 The server will run on `http://localhost:3000`.
